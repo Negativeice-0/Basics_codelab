@@ -1,2 +1,2 @@
 # BasicsCodelab
- After slothing the internet, an updated pathway has arrived
+ After sleuthing the internet, an updated pathway has arrived
